@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    align-items: baseline;
+    align-items: flex-start;
     background: white;
     border: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -36,7 +36,6 @@ a{
 }
 .Visiteur{
     border-radius: 10px;
-    margin-top: -5%;
     width: 30%;
     padding: 20px;
     box-shadow:0 0 12px rgba(0, 0, 0, 0.2);
